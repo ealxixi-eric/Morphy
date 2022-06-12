@@ -1,1 +1,3 @@
-print("this is test jenkins,update")
+if __name__=='__main__':
+    print("this is test jenkins,update")
+    print('this is wrong!')
